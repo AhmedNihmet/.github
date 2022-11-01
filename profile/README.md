@@ -2,14 +2,14 @@
 
 # Gateway ICT Solutions
 
-We are a team of leaders who operate under different missions, where dedication, focus, and creativity are
+> We are a team of leaders who operate under different missions, where dedication, focus, and creativity are
 embedded into every task we perform, accompanying the client hand-in-hand from planning to delivery
 and deployment of their exquisite products.
 
 # Our Story 
 *Innovation Starts With Dream And Plan*
 
-We believe that reaching your full innovative potential at Gateway requires hard work, dedication, and imagination. We worked our way up to be one of the most renowned companies in Kurdistan, yet our ambition knows no boundaries, for we are on the horizon to be a nationally and internationally recognized conglomerate on the tech scene.
+> We believe that reaching your full innovative potential at Gateway requires hard work, dedication, and imagination. We worked our way up to be one of the most renowned companies in Kurdistan, yet our ambition knows no boundaries, for we are on the horizon to be a nationally and internationally recognized conglomerate on the tech scene.
 
 # Our Mission 
 *Customer Success Is Our Mission*
@@ -19,7 +19,7 @@ To design a solution that genuinely accommodates customer desires, we participat
 # Our Vision 
 *We Work For The Future*
 
-We live in a world full of innovations, where every creation we build brings us one step closer to realizing a better, more enthusiastic future. One of the products we offer here at Gateway is employing state-of-the-art technology to reduce the CAPEX / OPEX costs of purchasing, maintaining, and upgrading vendor-specific routers by replacing them with NIBIRU.
+> We live in a world full of innovations, where every creation we build brings us one step closer to realizing a better, more enthusiastic future. One of the products we offer here at Gateway is employing state-of-the-art technology to reduce the CAPEX / OPEX costs of purchasing, maintaining, and upgrading vendor-specific routers by replacing them with NIBIRU.
 
 # Our Goal 
 *We Want To Serve You In The Best Way*
