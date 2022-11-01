@@ -1,6 +1,6 @@
 # GatwayICT
 
-# Gateway ICT Solutions
+# Gateway ICT Solutions '#428ccb'
 
 > We are a team of leaders who operate under different missions, where dedication, focus, and creativity are
 embedded into every task we perform, accompanying the client hand-in-hand from planning to delivery
